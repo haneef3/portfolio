@@ -72,3 +72,4 @@ export const SocialLinks: React.FC<SocialLinksProps> = ({
     </div>
   );
 };
+

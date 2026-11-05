@@ -57,3 +57,4 @@ export const SkillCard: React.FC<SkillCardProps> = ({ category }) => {
     </div>
   );
 };
+

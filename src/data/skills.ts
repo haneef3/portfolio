@@ -55,3 +55,4 @@ export const academicCoursework: string[] = [
   'Object-Oriented Programming (OOP)',
   'Database Management Systems (DBMS)',
 ];
+

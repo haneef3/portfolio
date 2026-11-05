@@ -77,3 +77,4 @@ export interface AchievementItem {
   type: string;
   description: string;
 }
+

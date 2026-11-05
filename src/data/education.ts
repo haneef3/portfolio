@@ -73,3 +73,4 @@ export const achievementsData: AchievementItem[] = [
       'Participated in IEEE Tech Week 2025 technical hackathons, workshops, and competitive engineering challenges.',
   },
 ];
+

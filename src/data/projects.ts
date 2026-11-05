@@ -98,3 +98,4 @@ export const projectsData: Project[] = [
     visualType: 'voice',
   },
 ];
+

@@ -69,3 +69,4 @@ npm run preview
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
 4. Deploy!
+
